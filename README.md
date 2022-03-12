@@ -8,10 +8,10 @@ The filterTable function sets the default table to be filled with all of the UFO
 input into the filters. The final result is a table filled with all of the data built by the buildTable function upon the webpage loading; the table can then be filtered
 by specific criteria placed with in the input fields thanks to the updateFilters and filterTable functions. 
 ## Results
-The following images will demonstrate how the filters work to refine the table with specific criteria. In the [Unfiltered Table](), no inputs have been entered and therefore
-all of the UFO data is displayed within the table. A single filter can significantly reduce the amount of data being displayed. For example, in the [Oregon UFOs]() table, 
+The following images will demonstrate how the filters work to refine the table with specific criteria. In the [Unfiltered Table](https://github.com/MDaily7/UFOs/blob/main/Resources/Unfiltered%20Table.PNG), no inputs have been entered and therefore
+all of the UFO data is displayed within the table. A single filter can significantly reduce the amount of data being displayed. For example, in the [Oregon UFOs](https://github.com/MDaily7/UFOs/blob/main/Resources/Oregon%20UFOS.png) table, 
 only the state filter is used, but it narrows down the results to just three. Finally, every filter can be utilized to narrow down the table data to a very specific situation
-as seen in the [All Filters]() table. 
+as seen in the [All Filters](https://github.com/MDaily7/UFOs/blob/main/Resources/All%20Filters.png) table. 
 ## Summary
 One big drawback of the webpage as it stands is that multiple criteria can't be entered into the same field to filter the table. For example, the table can't be filtered to display
 UFO sightings from both California and Oregon at the same time. Developing a way to add more than one value into a filter would add nice functionality to the webpage. Furthermore,
@@ -19,8 +19,8 @@ it may be beneficial to add a filter for the Duration column. The data for durat
 a little eratic, but this could be a nice addition once that was done. 
 ## Resources
 * JavaScript
-* [Resources]() folder with images
-* [app.js]()
-* [index.html]()
-* [style.css]() css for webpage styling
-
+* [Resources](https://github.com/MDaily7/UFOs/tree/main/Resources) folder with images
+* [app.js](https://github.com/MDaily7/UFOs/blob/main/static/js/app.js)
+* [index.html](https://github.com/MDaily7/UFOs/blob/main/index.html)
+* [style.css](https://github.com/MDaily7/UFOs/blob/main/static/css/style.css) css for webpage styling
+* [data.js](https://github.com/MDaily7/UFOs/blob/main/static/js/data.js)
